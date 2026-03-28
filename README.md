@@ -10,24 +10,6 @@
 - Transitioning into AI & building intelligent systems  
 - Passionate about LLMs, automation & agent-based workflows  
 
----
-
-## 🔧 Tech Stack
-
-### 💻 Languages
-- Python | Node.js | JavaScript | SQL | MongoDB | Postgre SQL | TypeScript | JavaScript 
-
-### ⚙️ Frameworks & Tools
-- LangChain | OpenAI | REST APIs | LangSmith | Claude | Tavily | DDGS
-- Docker | Kubernetes | AWS  
-
-### 🤖 AI & ML
-- LLM Applications  
-- Prompt Engineering  
-- AI Agents  
-- Vector Databases  
-
----
 
 ## 🚀 Featured Project
 
@@ -45,14 +27,11 @@ An **End-to-End AI Job Application Agent**
 - FastAPI  
 - LangChain  
 - OpenAI  
-- Python  
+- Python
 
----
-
-## 📌 Current Focus
-- Building AI Agents  
-- Improving system design & architecture  
-- Exploring real-world AI applications  
+### How To Start Application
+pip install -r requirements.txt    
+uvicorn app.main:app --reload
 
 ---
 
@@ -65,3 +44,4 @@ An **End-to-End AI Job Application Agent**
 
 ## ⚡ Fun Fact
 I’m building AI systems that can search jobs, find contacts, and apply automatically 🚀
+
