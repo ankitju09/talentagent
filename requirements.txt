@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+pydantic
+python-dotenv
+langchain
+langchain-anthropic
+anthropic
+ddgs
+httpx
+beautifulsoup4
